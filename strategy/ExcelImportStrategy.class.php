@@ -6,6 +6,6 @@ class ExcelImportStrategy implements ImportStrategyInterface
 {
     public function import()
     {
-        echo('Start importing from Excel...');
+        echo('Start importing from Excel'  . PHP_EOL);
     }
 }

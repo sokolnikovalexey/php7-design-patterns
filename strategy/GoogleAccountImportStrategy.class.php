@@ -6,6 +6,6 @@ class GoogleAccountImportStrategy implements ImportStrategyInterface
 {
     public function import()
     {
-        return 'Start importing from Google Account';
+        return 'Start importing from Google Account' . PHP_EOL;
     }
 }
