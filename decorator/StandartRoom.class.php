@@ -1,5 +1,6 @@
 <?
 namespace Decorator;
+require_once('RoomFeatureInterface.class.php');
 
 class StandartRoom implements RoomFeature
 {
