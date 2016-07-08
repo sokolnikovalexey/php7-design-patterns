@@ -8,7 +8,7 @@ This is a simplest PHP implementation of common design patterns described in the
 2. In this folder run php server via: php -S localhost:8000
 3. Open browser and in the adress line type: localhost:8000/factory-method/index.php
 
-PS: instead of 'factory-method' string you can write any pattern name, than listed below:
+PS: instead of 'factory-method' string you can write any pattern name, listed below:
 ## Implemented DesignPatterns
 * abstract-factory
 * adapter
